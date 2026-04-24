@@ -105,3 +105,15 @@ This project helped me understand how real SOC analysts monitor systems and dete
 ##  Resume point
 
 Built a SOC lab using Splunk to detect brute-force login attempts (Event ID 4625) and visualize activity using dashboards.
+
+
+## 📸 Screenshots
+
+### Failed Logins by Host
+![Failed Logins](./failed-logins-bar.png)
+
+### Login Attempts Over Time
+![Timeline](./login-timeline.png)
+
+### Dashboard View
+![Dashboard](./dashboard-view.png)
